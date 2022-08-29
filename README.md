@@ -4,7 +4,7 @@
 Hello World App 
 
 ### App Walk-though
-http://g.recordit.co/XlHFP9WSIx.gif
+
 
 <img src="http://g.recordit.co/XlHFP9WSIx.gif" width=200><br>
 
